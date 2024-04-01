@@ -1,6 +1,6 @@
 # ResuMate
 An AI empowered resume analyser For fast, unbiased, effective and efficient hiring.
-This was created as a submission for INNOV8, a hackathon by eightfold.ai
+This was the winning submission for INNOV8, a hackathon by eightfold.ai and ARIES (Artificial Intelligence Society IIT Delhi)
 
 ## Introduction
 * The Resume Highlighting System has a Flask based frontend that allows users to upload a PDF resume and specify a focus area.
@@ -18,6 +18,9 @@ This was created as a submission for INNOV8, a hackathon by eightfold.ai
 2. `cd` into `./main/`
 3. run `python app.py`
 4. Access the frontend on your browser at `localhost:5000`
+
+## How does it work?
+Read `report.pdf` to find out!
 
 
 Find out more at https://docs.google.com/presentation/d/1lFMlYsVylh8GcHVli4ao7VQ_X9GZdZBo5H4jdBTlsHo/
